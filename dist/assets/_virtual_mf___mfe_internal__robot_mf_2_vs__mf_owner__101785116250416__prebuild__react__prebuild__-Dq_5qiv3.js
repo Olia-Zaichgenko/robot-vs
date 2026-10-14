@@ -1,0 +1,55 @@
+import { r as __toESM, t as __commonJSMin } from "./rolldown-runtime-DC62tzP2.js";
+import { t as require_react_production } from "./react.production-C-yb4fm8.js";
+//#endregion
+//#region \0virtual:mf:__mfe_internal__robot_mf_2_vs__mf_owner__101785116250416__prebuild__react__prebuild__.js
+var import_react = /* @__PURE__ */ __toESM((/* @__PURE__ */ __commonJSMin(((exports, module) => {
+	module.exports = require_react_production();
+})))());
+var __mfPrebuildExports = import_react;
+var __mf_0 = __mfPrebuildExports["Activity"];
+var __mf_1 = __mfPrebuildExports["Children"];
+var __mf_2 = __mfPrebuildExports["Component"];
+var __mf_3 = __mfPrebuildExports["Fragment"];
+var __mf_4 = __mfPrebuildExports["Profiler"];
+var __mf_5 = __mfPrebuildExports["PureComponent"];
+var __mf_6 = __mfPrebuildExports["StrictMode"];
+var __mf_7 = __mfPrebuildExports["Suspense"];
+var __mf_8 = __mfPrebuildExports["ViewTransition"];
+var __mf_9 = __mfPrebuildExports["__CLIENT_INTERNALS_DO_NOT_USE_OR_WARN_USERS_THEY_CANNOT_UPGRADE"];
+var __mf_10 = __mfPrebuildExports["__COMPILER_RUNTIME"];
+var __mf_11 = __mfPrebuildExports["addTransitionType"];
+var __mf_12 = __mfPrebuildExports["cache"];
+var __mf_13 = __mfPrebuildExports["cacheSignal"];
+var __mf_14 = __mfPrebuildExports["cloneElement"];
+var __mf_15 = __mfPrebuildExports["createContext"];
+var __mf_16 = __mfPrebuildExports["createElement"];
+var __mf_17 = __mfPrebuildExports["createRef"];
+var __mf_18 = __mfPrebuildExports["forwardRef"];
+var __mf_19 = __mfPrebuildExports["isValidElement"];
+var __mf_20 = __mfPrebuildExports["lazy"];
+var __mf_21 = __mfPrebuildExports["memo"];
+var __mf_22 = __mfPrebuildExports["startTransition"];
+var __mf_23 = __mfPrebuildExports["unstable_useCacheRefresh"];
+var __mf_24 = __mfPrebuildExports["use"];
+var __mf_25 = __mfPrebuildExports["useActionState"];
+var __mf_26 = __mfPrebuildExports["useCallback"];
+var __mf_27 = __mfPrebuildExports["useContext"];
+var __mf_28 = __mfPrebuildExports["useDebugValue"];
+var __mf_29 = __mfPrebuildExports["useDeferredValue"];
+var __mf_30 = __mfPrebuildExports["useEffect"];
+var __mf_31 = __mfPrebuildExports["useEffectEvent"];
+var __mf_32 = __mfPrebuildExports["useId"];
+var __mf_33 = __mfPrebuildExports["useImperativeHandle"];
+var __mf_34 = __mfPrebuildExports["useInsertionEffect"];
+var __mf_35 = __mfPrebuildExports["useLayoutEffect"];
+var __mf_36 = __mfPrebuildExports["useMemo"];
+var __mf_37 = __mfPrebuildExports["useOptimistic"];
+var __mf_38 = __mfPrebuildExports["useReducer"];
+var __mf_39 = __mfPrebuildExports["useRef"];
+var __mf_40 = __mfPrebuildExports["useState"];
+var __mf_41 = __mfPrebuildExports["useSyncExternalStore"];
+var __mf_42 = __mfPrebuildExports["useTransition"];
+var __mf_43 = __mfPrebuildExports["version"];
+var _virtual_mf___mfe_internal__robot_mf_2_vs__mf_owner__101785116250416__prebuild__react__prebuild___default = Reflect.get(import_react, "default") ?? import_react;
+//#endregion
+export { __mf_0 as Activity, __mf_1 as Children, __mf_2 as Component, __mf_3 as Fragment, __mf_4 as Profiler, __mf_5 as PureComponent, __mf_6 as StrictMode, __mf_7 as Suspense, __mf_8 as ViewTransition, __mf_9 as __CLIENT_INTERNALS_DO_NOT_USE_OR_WARN_USERS_THEY_CANNOT_UPGRADE, __mf_10 as __COMPILER_RUNTIME, __mf_11 as addTransitionType, __mf_12 as cache, __mf_13 as cacheSignal, __mf_14 as cloneElement, __mf_15 as createContext, __mf_16 as createElement, __mf_17 as createRef, _virtual_mf___mfe_internal__robot_mf_2_vs__mf_owner__101785116250416__prebuild__react__prebuild___default as default, __mf_18 as forwardRef, __mf_19 as isValidElement, __mf_20 as lazy, __mf_21 as memo, __mf_22 as startTransition, __mf_23 as unstable_useCacheRefresh, __mf_24 as use, __mf_25 as useActionState, __mf_26 as useCallback, __mf_27 as useContext, __mf_28 as useDebugValue, __mf_29 as useDeferredValue, __mf_30 as useEffect, __mf_31 as useEffectEvent, __mf_32 as useId, __mf_33 as useImperativeHandle, __mf_34 as useInsertionEffect, __mf_35 as useLayoutEffect, __mf_36 as useMemo, __mf_37 as useOptimistic, __mf_38 as useReducer, __mf_39 as useRef, __mf_40 as useState, __mf_41 as useSyncExternalStore, __mf_42 as useTransition, __mf_43 as version };
